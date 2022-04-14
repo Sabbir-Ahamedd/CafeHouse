@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alfa_slab_one</item>
+        <item>@font/almendra_bold_italic</item>
+        <item>@font/almendra_sc</item>
+        <item>@font/amita_bold</item>
+        <item>@font/arizonia</item>
+        <item>@font/bilbo_swash_caps</item>
+        <item>@font/calligraffitti</item>
+        <item>@font/concert_one</item>
+        <item>@font/joti_one</item>
+        <item>@font/lancelot</item>
+    </array>
+</resources>
